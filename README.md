@@ -1,6 +1,8 @@
 Overview:
+
  This assignment was all about creating graphics in some language of our choice. I have decided to make a frog in pygame since I understand pygame the best. To do this I will just need some basic shapes and a background.
 	Steps:
+	
 First thing to do is to import pygame and math
 Then make a main method and initialize pygame.
 Next I will set the Screen size and screen name.
@@ -12,7 +14,9 @@ After that you blit the screen to correctly put the background and everything on
 The last part of the main method is to do a pygame.quit() outside the loop for it to end.
 The (kinda) last thing to do is to do that if __name__ == __main__ then run main bit
 
-	Image Steps:
+Image Steps:
+
+
 The first thing I will do is make a function that takes in the background.
 Then I’ll add the head of the frog. To do this I will do a Pygame.draw.ellipse() and in the parentheses I’ll add its specifications. These go in the order of (background so it knows to write on it, (r,g,b), (x location, y location), (width, height), and how full it is).
 The next shape to tackle is the eyes. Similarly to the ellipse it’ll use a pygame.draw.circle() and in it will be (background again, (r,g,b), (x,y), and the radius around the center of it). I will probably just repeat this but smaller to make the eyes. I will also just duplicate these eyes to make the second one. *Added* I added eyelids to make the frog look better. I already go over arcs later but know I added those here.
