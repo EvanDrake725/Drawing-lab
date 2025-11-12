@@ -26,7 +26,9 @@ Last note is for colors I will probably just do shades of green for the frog and
 *Added* I added a top hat for visual flair. To do that I just went and before everything else so it’d be in the back I put a black ellipse and a black square. Flair.
 
 What I learned:
-		The biggest thing I learned in the project is how much it sucks to line things up correctly. On a more serious note I realized how much the small details mattered. From the eyes being just to close or the angles of the arc being wrong. There are so many places that small things can screw up a project. It shows why double and even triple checking is important.
+
+The biggest thing I learned in the project is how much it sucks to line things up correctly. On a more serious note I realized how much the small details mattered. From the eyes being just to close or the angles of the arc being wrong. There are so many places that small things can screw up a project. It shows why double and even triple checking is important.
 
 Instalation:
-		It's Pygame so you’re fine running it.
+
+It's Pygame so you’re fine running it.
