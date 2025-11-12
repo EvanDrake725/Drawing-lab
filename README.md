@@ -1,7 +1,8 @@
 Overview:
 
  This assignment was all about creating graphics in some language of our choice. I have decided to make a frog in pygame since I understand pygame the best. To do this I will just need some basic shapes and a background.
-	Steps:
+
+Steps:
 	
 First thing to do is to import pygame and math
 Then make a main method and initialize pygame.
